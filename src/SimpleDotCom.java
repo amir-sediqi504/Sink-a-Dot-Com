@@ -16,7 +16,7 @@ public class SimpleDotCom {
             }
         }
         if (numOfHits == locationCells.length){
-            result = "Killed lel";
+            result = "Kill";
 
         }
         System.out.println(result);
